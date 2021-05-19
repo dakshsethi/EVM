@@ -1,0 +1,849 @@
+candid_id,const_id,State,Constituency,Name,Party
+CD0001,,Andaman and Nicobar Islands,Andaman and Nicobar Islands,Vishal Jolly,BJP
+CD0002,,Andhra Pradesh,Amalapuram,AyyajiVema Manepalli,BJP
+CD0003,,Andhra Pradesh,Anakapalli,Dr. Gandi Venkata Satyanarayana,BJP
+CD0004,,Andhra Pradesh,Anantapur,Hamsa Devineni,BJP
+CD0005,,Andhra Pradesh,Araku,K V V Satyanarayan Reddy,BJP
+CD0006,,Andhra Pradesh,Bapatla,Dr. Challagali Kishore Kumar,BJP
+CD0007,,Andhra Pradesh,Chittoor,Jayaram Duggani,BJP
+CD0008,,Andhra Pradesh,Eluru,Chinnam Ramkotaya,BJP
+CD0009,,Andhra Pradesh,Guntur,Valluru Jayaprakash Narayana,BJP
+CD0010,,Andhra Pradesh,Hindupur,Pogala Venkata Parthasarthi,BJP
+CD0011,,Andhra Pradesh,Kadapa,Singa Reddy Ramchandra Reddy,BJP
+CD0012,,Andhra Pradesh,Kakinada,Yalla Venkata Ramamohana Rao (Dorababu),BJP
+CD0013,,Andhra Pradesh,Kurnool,Dr. P V Parthasarthi,BJP
+CD0014,,Andhra Pradesh,Machilipatnam,Gudivaka Ramanjaneyulu,BJP
+CD0015,,Andhra Pradesh,Nandyal,Dr. AdinarayanaInti,BJP
+CD0016,,Andhra Pradesh,Narasaraopet,Shri Kanna Lakshminarayana,BJP
+CD0017,,Andhra Pradesh,Narsapuram,Paidikonda Manikyalarao,BJP
+CD0018,,Andhra Pradesh,Nellore,Suresh Reddy Sannapareddy,BJP
+CD0019,,Andhra Pradesh,Ongole,Thogunta Srinivas,BJP
+CD0020,,Andhra Pradesh,Rajahmundry,Satya Gopinath dasparavasthu,BJP
+CD0021,,Andhra Pradesh,Rajampet,Pappireddi Maheswara Reddy,BJP
+CD0022,,Andhra Pradesh,Srikakulam,Perla Sambamurti,BJP
+CD0023,,Andhra Pradesh,Tirupati,Bommi Sri Hari Rao,BJP
+CD0024,,Andhra Pradesh,Vijayawada,Dilip Kumar Kilaru,BJP
+CD0025,,Andhra Pradesh,Visakhapatnam,Shri D Purandeshwari,BJP
+CD0026,,Andhra Pradesh,Vizianagaram,P Sanyasi Raju,BJP
+CD0027,,Arunachal Pradesh,Arunachal East,Shri Tapir Gao,BJP
+CD0028,,Arunachal Pradesh,Arunachal West,Shri Kiren Rijiju,BJP
+CD0029,,Assam,Dibrugarh,Shri Rameswar Teli,BJP
+CD0030,,Assam,Jorhat,Shri Tapan Gogai,BJP
+CD0031,,Assam,Lakhimpur,Shri Pradan Baruah,BJP
+CD0032,,Assam,Tezpur,Sjt. Pallab Lochan Das,BJP
+CD0033,,Assam,Autonomous District,Shri Horensingh Bey,BJP
+CD0034,,Assam,Karimganj,Shri Kripanath Mallah,BJP
+CD0035,,Assam,Mangaldoi,Shri Dilip Saikia,BJP
+CD0036,,Assam,Nowgong,Shri Rupak Sharma,BJP
+CD0037,,Assam,Silchar,Dr Rajdeep Roy Bengali,BJP
+CD0038,,Bihar,Araria,Pradeep Singh (BJP),BJP
+CD0039,,Bihar,Arrah,Rajkumar Singh (BJP),BJP
+CD0040,,Bihar,Begusarai,Giriraj Singh (BJP),BJP
+CD0041,,Bihar,Buxar,Ashwini Kumar Choubey (BJP),BJP
+CD0042,,Bihar,Darbhanga,Gopal Ji Thakur (BJP),BJP
+CD0043,,Bihar,Madhubani,Ashok Kumar Yadav (BJP),BJP
+CD0044,,Bihar,Maharajganj,Janardan Singh Sigriwal (BJP),BJP
+CD0045,,Bihar,Muzaffarpur,Ajay Nishad (BJP),BJP
+CD0046,,Bihar,Paschim Champaran,Dr. Sanjay Jaiswal (BJP),BJP
+CD0047,,Bihar,Pataliputra,Ram Krapal Yadav (BJP),BJP
+CD0048,,Bihar,Patna Sahib,Ravi Shankar Prasad (BJP),BJP
+CD0049,,Bihar,Purvi Champaran,Radha Mohan Singh (BJP),BJP
+CD0050,,Bihar,Saran,Rajiv Pratap Rudy (BJP),BJP
+CD0051,,Bihar,Sasaram,Chedi Paswan (BJP),BJP
+CD0052,,Bihar,Sheohar,Smt. Rama Devi (BJP),BJP
+CD0053,,Bihar,Ujiarpur,Nityanand Rai (BJP),BJP
+CD0054,,Bihar,Aurangabad,Susheel Kumar Singh (BJP),BJP
+CD0055,,Chattisgarh,Bastar,Shri Baiduram Kashyap,BJP
+CD0056,,Chattisgarh,Bilaspur,Shri Arun Saw,BJP
+CD0057,,Chattisgarh,Durg,Shri Vijay Baghel,BJP
+CD0058,,Chattisgarh,Janjgir-Champa,Shri Guharam Ajgale,BJP
+CD0059,,Chattisgarh,Korba,Shri Jyoti Nand Dubey,BJP
+CD0060,,Chattisgarh,Raigarh,Smt. Gomtee Sai,BJP
+CD0061,,Chattisgarh,Raipur,Shri Sunil Soni,BJP
+CD0062,,Chattisgarh,Surguja,Smt. Renuka Singh,BJP
+CD0063,,Chattisgarh,Kanker,Shri Mohan Mandav,BJP
+CD0064,,Chattisgarh,Mahasamund,Shri Chunnilal Sahu,BJP
+CD0065,,Chattisgarh,Rajnandgaon,Shri Santosh Pandey,BJP
+CD0066,,Dadra and Nagar Haveli,Dadra and Nagar Haveli,Shri Natubhai Gomanbhai Patel,BJP
+CD0067,,Daman and Diu,Daman and Diu,Shri Lalubhai Patel,BJP
+CD0068,,Goa,North Goa,Shri Shripad Yesso Naik,BJP
+CD0069,,Goa,South Goa,Adv. Narendra Keshav Sawaikar,BJP
+CD0070,,Gujarat,Ahmedabad East,Shri H.S. Patel,BJP
+CD0071,,Gujarat,Ahmedabad West,Dr. Kirit Bhai Solanki,BJP
+CD0072,,Gujarat,Amreli,Shri Naran Bhai Kchhadia,BJP
+CD0073,,Gujarat,Anand,Shri Miteshbhai Patel (Bakabhai),BJP
+CD0074,,Gujarat,Banaskantha,Shri Parbat Bhai Patel,BJP
+CD0075,,Gujarat,Bardoli,Shri Parbhu Bhai Vasava,BJP
+CD0076,,Gujarat,Bharuch,Shri Mansukh Bhai Vasava,BJP
+CD0077,,Gujarat,Bhavnagar,Dr. Mrs. Bharati Ben Shiyal,BJP
+CD0078,,Gujarat,Chhota Udaipur,Mrs. Geetaben Rathva,BJP
+CD0079,,Gujarat,Dahod,Shri Jashvant Sinh Bhabhor,BJP
+CD0080,,Gujarat,Gandhinagar,Shri Amit Anit Chandra Shah,BJP
+CD0081,,Gujarat,Jamnagar,Mrs. Punamben Madam,BJP
+CD0082,,Gujarat,Junagadh,Shri Rajeshbhai Chudasma,BJP
+CD0083,,Gujarat,Kachahh,Shri Vinod Bhai Chavda,BJP
+CD0084,,Gujarat,Kheda,Shri Devusinh Chauhan,BJP
+CD0085,,Gujarat,Mahesana,Mrs. Sharda Ben Patel W/O Late Shri Anil Bhai Patel (Former Minister),BJP
+CD0086,,Gujarat,Navsari,Shri C.R. Patil,BJP
+CD0087,,Gujarat,Panchmahal,Shri Ratan Singh,BJP
+CD0088,,Gujarat,Patan,Shri Bharatsinh Dabhi Thakor,BJP
+CD0089,,Gujarat,Porbandar,Shri Ramesh Dhaduk,BJP
+CD0090,,Gujarat,Rajkot,Shri Mohan Bhai Kundariya,BJP
+CD0091,,Gujarat,Sabarkantha,Shri Dipsinh Radhod,BJP
+CD0092,,Gujarat,Surat,Smt. Darshana Jardosh,BJP
+CD0093,,Gujarat,Surendranagar,Dr. Mahendra Bhai Munjpara,BJP
+CD0094,,Gujarat,Vadodara,Mrs. Ranjan Ben Bhatt,BJP
+CD0095,,Gujarat,Valsad,Dr. K.C. Patel,BJP
+CD0096,,Haryana,Ambala,Shri Ratan Lal Katariya,BJP
+CD0097,,Haryana,Bhiwani-Mahendragarh,Shri Dharmvir Singh,BJP
+CD0098,,Haryana,Faridabad,Shri Krisnpal Gurjar,BJP
+CD0099,,Haryana,Gurgaon,Shri Rao Indrajeet Singh,BJP
+CD0100,,Haryana,Hisar,Brijendra Singh,BJP
+CD0101,,Haryana,Karnal,Shri Sanjay Bhatiya,BJP
+CD0102,,Haryana,Kurukshetra,Shri Nayab Singh Saini,BJP
+CD0103,,Haryana,Rohtak,Arvind Sharma,BJP
+CD0104,,Haryana,Sirsa,Smt Suneeta Duggal,BJP
+CD0105,,Haryana,Sonipat,Shri Ramesh Chandra Kaushik,BJP
+CD0106,,Himachal Pradesh,Hamirpur,Shri Anurag Thakur,BJP
+CD0107,,Himachal Pradesh,Kangra,Shri Kishan Kapoor,BJP
+CD0108,,Himachal Pradesh,Mandi,Shri Ramswroop Sharma,BJP
+CD0109,,Himachal Pradesh,Shimla,Shri Suresh Kashyap,BJP
+CD0110,,Jammu and Kashmir,Baramulla,Shri M M War,BJP
+CD0111,,Jammu and Kashmir,Anantnag,Shri Sofi Youssaf,BJP
+CD0112,,Jammu and Kashmir,Jammu,Shri Jugal Kishore Sharma,BJP
+CD0113,,Jammu and Kashmir,Ladakh,Shri Jamyang Tsering Namgyal,BJP
+CD0114,,Jammu and Kashmir,Srinagar,Shri Khalid Jahangir,BJP
+CD0115,,Jammu and Kashmir,Udhampur,Dr. Jitendra Singh,BJP
+CD0116,,Jharkhand,Chatra,Shri Sunil Singh,BJP
+CD0117,,Jharkhand,Dhanbad,Shri Pashupati Nath Singh,BJP
+CD0118,,Jharkhand,Dumka,Shri Sunil Soren,BJP
+CD0119,,Jharkhand,Godda,Shri Nishikant Dubey,BJP
+CD0120,,Jharkhand,Hazaribagh,Shri Jayant Sinha,BJP
+CD0121,,Jharkhand,Jamshedpur,Shri Vidhyut Varan Mahato,BJP
+CD0122,,Jharkhand,Khunti,Shri Arjun Munda,BJP
+CD0123,,Jharkhand,Kodarma,Smt Annapurna Devi Yadav,BJP
+CD0124,,Jharkhand,Lohardaga,Shri Sudarshan Bhagat,BJP
+CD0125,,Jharkhand,Palamau,Shri Vishnu Dayal Ram,BJP
+CD0126,,Jharkhand,Rajmahal,Shri Hemlal Murmu,BJP
+CD0127,,Jharkhand,Ranchi,Shri Sanjay Seth,BJP
+CD0128,,Jharkhand,Singhbhum,Shri Laxman Giluva,BJP
+CD0129,,Karnataka,Bagalkot,Shri Parvatagouda C Gaddigoudar,BJP
+CD0130,,Karnataka,Belgaum,Shri Suresh Chanabasappa Angadi,BJP
+CD0131,,Karnataka,Bellary,Shri Devendrappa,BJP
+CD0132,,Karnataka,Bidar,Shri Bhagwanth Khuba,BJP
+CD0133,,Karnataka,Bijapur,Shri Ramesh Chandappa Jigajinagi,BJP
+CD0134,,Karnataka,Chikkodi,Shri Anna Saheb Jolle,BJP
+CD0135,,Karnataka,Davanagere,Shri Gowdar M Siddeshwara,BJP
+CD0136,,Karnataka,Dharwad,Shri Pralhad Venkatesh Joshi,BJP
+CD0137,,Karnataka,Gulbarga,Dr Umesh Jadhav,BJP
+CD0138,,Karnataka,Haveri,Shri Shivkumar Chanabasappa Udasi,BJP
+CD0139,,Karnataka,Koppal,Shri Sanganna Karadi,BJP
+CD0140,,Karnataka,Raichur,Shri Raja Amresh Nayak,BJP
+CD0141,,Karnataka,Shimoga,Shri B Y Raghavendra,BJP
+CD0142,,Karnataka,Uttara Kannada,Shri Anantkumar Hegde,BJP
+CD0143,,Karnataka,Bangalore Central,Shri P. C. Mohan,BJP
+CD0144,,Karnataka,Bangalore North,Shri D.V. Sadananda Gowda,BJP
+CD0145,,Karnataka,Bangalore Rural,Shri Ashwat Narain,BJP
+CD0146,,Karnataka,Bangalore South,Shri Tejaswi Surya L.S.,BJP
+CD0147,,Karnataka,Chamrajanagar,Shri Srinivasa Prasad,BJP
+CD0148,,Karnataka,Chikkballapur,Shri B N Bache Gowda,BJP
+CD0149,,Karnataka,Chitradurga,Shri A Narayana Swamy,BJP
+CD0150,,Karnataka,Dakshina Kannada,Shri Nalin Kumar Kateel,BJP
+CD0151,,Karnataka,Hassan,Shri A Manju,BJP
+CD0152,,Karnataka,Kolar,S. Muniswamy,BJP
+CD0153,,Karnataka,Mandya,Smt Sumalatha (IND Support),BJP
+CD0154,,Karnataka,Mysore,Shri Prathap Simha,BJP
+CD0155,,Karnataka,Tumkur,Shri G S Basavaraju,BJP
+CD0156,,Karnataka,Udupi Chikmagalur,Kum. Shobha Karandlaje,BJP
+CD0157,,Kerala,Alappuzha,Dr K S Radhakrishnan,BJP
+CD0158,,Kerala,Attingal,Smt. Sobha Surendran,BJP
+CD0159,,Kerala,Chalakudy,Shri A N Radhakrishnan,BJP
+CD0160,,Kerala,Ernakulam,Shri Alphonese Kannanthana,BJP
+CD0161,,Kerala,Kannur,Shri C K Padmanabhan,BJP
+CD0162,,Kerala,Kasaragod,Shri Raveesh Thantri Kuntar,BJP
+CD0163,,Kerala,Kollam,Shri K V Sabu,BJP
+CD0164,,Kerala,Kozhikode,Adv K P Prakash Babu,BJP
+CD0165,,Kerala,Malappuram,Shri Unnikrishnan Master,BJP
+CD0166,,Kerala,Palakkad,Shri C Krishnakumar,BJP
+CD0167,,Kerala,Pathanamthitta,Shri K. Surendran,BJP
+CD0168,,Kerala,Ponnani,Prof. V T Rema,BJP
+CD0169,,Kerala,Thiruvananthapuram,Shri Kummanam Rajasekharan,BJP
+CD0170,,Kerala,Thrissur,Shri Suresh Gopi,BJP
+CD0171,,Kerala,Vadakara,Shri V K Sajeevan,BJP
+CD0172,,Lakshadweep,Lakshadweep,Shri Abdul Khader,BJP
+CD0173,,Madhya Pradesh,Balaghat,Shri Dhal Singh Bisen,BJP
+CD0174,,Madhya Pradesh,Betul,Shri Durgadas Uike,BJP
+CD0175,,Madhya Pradesh,Bhind,Smt. Sandhya Rai,BJP
+CD0176,,Madhya Pradesh,Chhindwara,Shri Natthan Shah,BJP
+CD0177,,Madhya Pradesh,Damoh,Shri Prahlad Patel,BJP
+CD0178,,Madhya Pradesh,Dewas,Shri Mahendra Solanki,BJP
+CD0179,,Madhya Pradesh,Dhar,Chattar Singh Darbar,BJP
+CD0180,,Madhya Pradesh,Gwalior,Shri Vivek Sejwalkar,BJP
+CD0181,,Madhya Pradesh,Hoshangabad,Shri Rao Udai Pratap Singh,BJP
+CD0182,,Madhya Pradesh,Jabalpur,Shri Rakesh Singh,BJP
+CD0183,,Madhya Pradesh,Khajuraho,Bishnu Datt Sharma,BJP
+CD0184,,Madhya Pradesh,Khandwa,Shri Nand Kumar Singh Chouhan,BJP
+CD0185,,Madhya Pradesh,Khargone,Shri Gajendra Patel,BJP
+CD0186,,Madhya Pradesh,Mandla,Shri Faggan Singh Kulaste,BJP
+CD0187,,Madhya Pradesh,Mandsour,Shri Sudhir Gupta,BJP
+CD0188,,Madhya Pradesh,Morena,Shri Narendra Singh Tomar,BJP
+CD0189,,Madhya Pradesh,Rajgarh,Shri Roadmal Nagar,BJP
+CD0190,,Madhya Pradesh,Ratlam,GS Damor,BJP
+CD0191,,Madhya Pradesh,Rewa,Shri Janardan Mishra,BJP
+CD0192,,Madhya Pradesh,Satna,Shri Ganesh Singh,BJP
+CD0193,,Madhya Pradesh,Shahdol,Smt. Himadri Singh,BJP
+CD0194,,Madhya Pradesh,Sidhi,Smt. Riti Pathak,BJP
+CD0195,,Madhya Pradesh,Tikamgarh,Shri Virendra Kumar Khateek,BJP
+CD0196,,Madhya Pradesh,Ujjain,Shri Anil Firojiya,BJP
+CD0197,,Maharashtra,Ahmednagar,Shri Sujay Vikhe,BJP
+CD0198,,Maharashtra,Baramati,Mrs. Kanchan Rahul Kul,BJP
+CD0199,,Maharashtra,Bhandara-Gondiya,Shri Sunil Baburao Mendhe,BJP
+CD0200,,Maharashtra,Bhiwandi,Shri Kapil Moreshwar Patil,BJP
+CD0201,,Maharashtra,Chandrapur,Shri Hansraj Gangaram Ahir,BJP
+CD0202,,Maharashtra,Dhule,Dr. Subhash Ramrao Bhamre,BJP
+CD0203,,Maharashtra,Dindori,Dr. Bharati Pawar,BJP
+CD0204,,Maharashtra,Gadchiroli-Chimur,Shri Ashok Mahadeorao Nete,BJP
+CD0205,,Maharashtra,Jalgaon,Mrs. Smita Uday Wagh,BJP
+CD0206,,Maharashtra,Jalna,Shri Raosaheb Patil Danve,BJP
+CD0207,,Maharashtra,Madha,Shri Ranjeet Singh Hindurao Naik Nimbalkar,BJP
+CD0208,,Maharashtra,Mumbai North East,Shri Manoj Kotak,BJP
+CD0209,,Maharashtra,Mumbai-North,Shri Gopal Chinayya Shetty,BJP
+CD0210,,Maharashtra,Mumbai-North-Central,Smt. Poonam Mahajan,BJP
+CD0211,,Maharashtra,Nagpur,Shri Nitin Jairam Gadkari,BJP
+CD0212,,Maharashtra,Nandurbar,Dr. Heena Vijaykumar Gavit,BJP
+CD0213,,Maharashtra,Pune,Shri Girish Bapat,BJP
+CD0214,,Maharashtra,Raver,Smt. Raksha Nikhil Khadse,BJP
+CD0215,,Maharashtra,Sangli,Shri Sanjay(Kaka) Ramchandra Patil,BJP
+CD0216,,Maharashtra,Wardha,Shri Ramdas Chandrabhanji Tadas,BJP
+CD0217,,Maharashtra,Akola,Shri Sanjay Shamrao Dhotre,BJP
+CD0218,,Maharashtra,Beed,Dr. Pritam Gopinath Munde,BJP
+CD0219,,Maharashtra,Latur,Shri Sudhakar Bhalerao Shrungare,BJP
+CD0220,,Maharashtra,Nanded,Shri Pratap Patil Chikkalikar,BJP
+CD0221,,Maharashtra,Solapur,Dr. Jaysidhesvar Swami,BJP
+CD0222,,Manipur,Inner Manipur,Dr Rajkumar Ranjan Singh,BJP
+CD0223,,Manipur,Outer Manipur,Houlim Shokhopao Mate,BJP
+CD0224,,Meghalaya,Shillong,"Shri Sanbor Shullai, MLA",BJP
+CD0225,,Meghalaya,Tura,Shri Rikman G Momim,BJP
+CD0226,,Mizoram,Mizoram,Shri Nirupam Chakma,BJP
+CD0227,,Odisha,Aska,Anita Subhadarshini,BJP
+CD0228,,Odisha,Balasore,Shri Pratap Sarangi,BJP
+CD0229,,Odisha,Bargarh,Shri Suresh Pujari,BJP
+CD0230,,Odisha,Berhampur,Bhrugu Baxipatra,BJP
+CD0231,,Odisha,Bhadrak,Shri Abhimanyu Sethi,BJP
+CD0232,,Odisha,Bhubaneswar,Smt. Aparajita Sarangi,BJP
+CD0233,,Odisha,Bolangir,Shri Sangeeta Kumari Singh Deo,BJP
+CD0234,,Odisha,Cuttack,Shri Prakash Mishra,BJP
+CD0235,,Odisha,Dhenkanal,Shri Rudra Narayan Pani,BJP
+CD0236,,Odisha,Jagatsinghpur,Shri Bibhuprasad Tarai,BJP
+CD0237,,Odisha,Jajpur,Shri Amiya Mallick,BJP
+CD0238,,Odisha,Kalahandi,Basanta Kumar Panda,BJP
+CD0239,,Odisha,Kandhamal,Shri Mahameghabaham Aira Kharbela Swain,BJP
+CD0240,,Odisha,Kendrapara,Shri Baijayant Panda,BJP
+CD0241,,Odisha,Keonjhar,Shri Ananta Naik,BJP
+CD0242,,Odisha,Koraput,Jayaram Pangi,BJP
+CD0243,,Odisha,Mayurbhanj,Er Biswesar Tudu,BJP
+CD0244,,Odisha,Nabarangpur,Balabhadra Majhi,BJP
+CD0245,,Odisha,Puri,Dr. Sambit Patra,BJP
+CD0246,,Odisha,Sambalpur,Shri Nitesh Ganga Deb,BJP
+CD0247,,Odisha,Sundargarh ,Shri Jual Oram,BJP
+CD0248,,Rajasthan,Ajmer,Shri Bhagirath Chaudhary,BJP
+CD0249,,Rajasthan,Alwar,Shri Balak Nath,BJP
+CD0250,,Rajasthan,Banswara,Shri Kanakmal Katara,BJP
+CD0251,,Rajasthan,Barmer,Shri Kailash Chaudhry,BJP
+CD0252,,Rajasthan,Bharatpur,Smt Ranjeeta Kohli,BJP
+CD0253,,Rajasthan,Bhilwara,Shri Subhash Chandra Baheria,BJP
+CD0254,,Rajasthan,Bikaner,Shri Arjun Ram Meghwal,BJP
+CD0255,,Rajasthan,Chittorgarh,Shri C. P. Joshi,BJP
+CD0256,,Rajasthan,Churu,"Shri Rahul Kaswan, MP",BJP
+CD0257,,Rajasthan,Dausa,Jas Kaur Meena,BJP
+CD0258,,Rajasthan,Ganganagar,Shri Nihal Chand Chauhan,BJP
+CD0259,,Rajasthan,Jaipur,Shri Ramcharan Bohra,BJP
+CD0260,,Rajasthan,Jaipur Rural,Col. Rajyavardhan Singh Rathore,BJP
+CD0261,,Rajasthan,Jalore,Shri Devji Mansingram Patel,BJP
+CD0262,,Rajasthan,Jhalawar-Baran,Shri Dushyant Singh,BJP
+CD0263,,Rajasthan,Jhunjhunu,Shri Narendra Khinchal,BJP
+CD0264,,Rajasthan,Jodhpur,Shri Gajendra Singh Shekhawat,BJP
+CD0265,,Rajasthan,Karauli-Dholpur,Shri Manoj Rajuriya,BJP
+CD0266,,Rajasthan,Kota,Shri Om Birla,BJP
+CD0267,,Rajasthan,Pali,Shri P P Chaudhary,BJP
+CD0268,,Rajasthan,Rajsamand,Smt Diya Kumari,BJP
+CD0269,,Rajasthan,Sikar,Shri Sumedhanand Saraswati,BJP
+CD0270,,Rajasthan,Tonk-Sawai Madhopur,Shri Sukhbir Singh Jaunapuria,BJP
+CD0271,,Rajasthan,Udaipur,Shri Arjunlal Meena,BJP
+CD0272,,Sikkim,Sikkim,Shri LatenTshering Sherpa,BJP
+CD0273,,Tamilnadu,Coimbatore,Shri C P Radhakrishnan,BJP
+CD0274,,Tamilnadu,Kanniyakumari,Shri Pon. Radhakrishnan,BJP
+CD0275,,Tamilnadu,Ramanathapuram,Shri Nainar Nagendran,BJP
+CD0276,,Tamilnadu,Sivaganga,Shri H Raja,BJP
+CD0277,,Tamilnadu,Thoothukkudi,Dr Tamilisai Soundarrajan,BJP
+CD0278,,Telangana,Adilabad,Shri Soyam Babu Rao,BJP
+CD0279,,Telangana,Bhongir,Shri P V Shamsunder Rao,BJP
+CD0280,,Telangana,Chelvella,Shri B. Janardhan Reddy,BJP
+CD0281,,Telangana,Hyderabad,Dr. Bhagwanth Rao,BJP
+CD0282,,Telangana,Karimnagar,Shri Bandi Sanjay,BJP
+CD0283,,Telangana,Khammam,Shri Vasudev Rao,BJP
+CD0284,,Telangana,Mahabubabad,Shri Jatothu Hussain Naik,BJP
+CD0285,,Telangana,Mahabubnagar,Smt. D K Aruna,BJP
+CD0286,,Telangana,Malkajgiri,Shri N Ramchandra Rao,BJP
+CD0287,,Telangana,Medak,Shri Raghunanadan Rao,BJP
+CD0288,,Telangana,Nagarkurnool,Kum. Bangaru Shruthi,BJP
+CD0289,,Telangana,Nalgonda,Shri Garlapati Jithender Kumar,BJP
+CD0290,,Telangana,Nizamabad,Shri D. Aravind,BJP
+CD0291,,Telangana,Peddapalli,Shri S. Kumar,BJP
+CD0292,,Telangana,Secunderabad,Shri G Kishan Reddy,BJP
+CD0293,,Telangana,Warangal,Shri Chinta Sambamurthy,BJP
+CD0294,,Telangana,Zahirabad,Shri Banala Laxma Reddy,BJP
+CD0295,,Tripura,Tripura East,Rebati Tripura,BJP
+CD0296,,Tripura,Tripura West,Shri Rebati Tripura,BJP
+CD0297,,Uttar Pradesh,Agra,Shri S P Singh Baghel,BJP
+CD0298,,Uttar Pradesh,Akbarpur,"Shri Davendra Singh Bhole, MP",BJP
+CD0299,,Uttar Pradesh,Aligarh,Shri Satish Kumar Gautam,BJP
+CD0300,,Uttar Pradesh,Allahabad,Smt Rita Bahuguna Joshi,BJP
+CD0301,,Uttar Pradesh,Ambedkar Nagar,Shri. Mukut Bihari,BJP
+CD0302,,Uttar Pradesh,Amethi,Smt. Smriti Irani (Parsi),BJP
+CD0303,,Uttar Pradesh,Amroha,Shri Kanwar Singh Tanwar,BJP
+CD0304,,Uttar Pradesh,Aonla,Shri Dharmendra Kumar,BJP
+CD0305,,Uttar Pradesh,Azamgarh,Shri Dinesh Lal Yadav,BJP
+CD0306,,Uttar Pradesh,Badaun,Smt. Sangh Mitra Maurya,BJP
+CD0307,,Uttar Pradesh,Baghpat,Dr. Satya Pal Singh,BJP
+CD0308,,Uttar Pradesh,Bahraich,Shri Akshaywar lal Gaud,BJP
+CD0309,,Uttar Pradesh,Ballia,Shri Virendra Singh Mast,BJP
+CD0310,,Uttar Pradesh,Banda,Shri R K Patel,BJP
+CD0311,,Uttar Pradesh,Bansgaon,"Shri Kamlesh Paswan, MP",BJP
+CD0312,,Uttar Pradesh,Barabanki,Shri Upednra Rawat,BJP
+CD0313,,Uttar Pradesh,Bareilly,Shri Santosh Kumar Gangwar,BJP
+CD0314,,Uttar Pradesh,Basti,"Shri Harish Dwivedi, MP",BJP
+CD0315,,Uttar Pradesh,Bhadohi,Shri. Ramesh Bind,BJP
+CD0316,,Uttar Pradesh,Bijnor,Kunwar Bharatendra Singh,BJP
+CD0317,,Uttar Pradesh,Bulandshahr,Shri Bhola Singh,BJP
+CD0318,,Uttar Pradesh,Chandauli,Shri Mahendra Nath Pandey,BJP
+CD0319,,Uttar Pradesh,Deoria,Shri. Ramapati Ram Tripathi,BJP
+CD0320,,Uttar Pradesh,Dhaurahra,Smt Rekha Verma,BJP
+CD0321,,Uttar Pradesh,Domariyaganj,"Shri Jagdambika Pal, MP",BJP
+CD0322,,Uttar Pradesh,Etah,Shri Rajveer Singh-MP (Raju Bhaiya),BJP
+CD0323,,Uttar Pradesh,Etawah,"Shri Ramashankar Katheriya, MP",BJP
+CD0324,,Uttar Pradesh,Faizabad,"Shri Lallu Singh, MP",BJP
+CD0325,,Uttar Pradesh,Farrukhabad,Shri Mukesh Rajpoot,BJP
+CD0326,,Uttar Pradesh,Fatehpur,"Sadhvi Niranjan Jyoti,MP",BJP
+CD0327,,Uttar Pradesh,Fatehpur Sikri,Shri Raj Kumar Chaher,BJP
+CD0328,,Uttar Pradesh,Firozabad,Dr. Chandra Sen Jadun,BJP
+CD0329,,Uttar Pradesh,Gautam Buddha Nagar,Dr. Mahesh Sharma,BJP
+CD0330,,Uttar Pradesh,Ghaziabad,Dr. Vijay Kumar Singh,BJP
+CD0331,,Uttar Pradesh,Ghazipur,Shri Manoj Sinha,BJP
+CD0332,,Uttar Pradesh,Gonda,"Shri Kirtiwardhan Singh, MP",BJP
+CD0333,,Uttar Pradesh,Gorakhpur,Shri. Ravi Kishan,BJP
+CD0334,,Uttar Pradesh,Hamirpur,"Shri Pushpendra Singh Chandel, MP",BJP
+CD0335,,Uttar Pradesh,Hardoi,Shri Jai Prakash Rawat,BJP
+CD0336,,Uttar Pradesh,Hathras,Shri Rajveer Singh Balmiki (Diler),BJP
+CD0337,,Uttar Pradesh,Jalaun,"Shri Bhanu Pratap Verma, MP",BJP
+CD0338,,Uttar Pradesh,Jaunpur,Shri. K P Singh,BJP
+CD0339,,Uttar Pradesh,Jhansi,Shri Anurag Sharma,BJP
+CD0340,,Uttar Pradesh,Kairana,Shri Pradeep Choudhary,BJP
+CD0341,,Uttar Pradesh,Kaiserganj,"Shri Brijbhushan Sharan Singh, MP",BJP
+CD0342,,Uttar Pradesh,Kannauj,Shri Subrat Pathak,BJP
+CD0343,,Uttar Pradesh,Kanpur,Shri Satyadev Pachuri,BJP
+CD0344,,Uttar Pradesh,Kaushambi,"Shri Vinod Sonkar, MP",BJP
+CD0345,,Uttar Pradesh,Kheri,Shri Ajay Kumar Mishra,BJP
+CD0346,,Uttar Pradesh,Kushi Nagar,"Shri Vijay Dubey, MP",BJP
+CD0347,,Uttar Pradesh,Lalganj,Smt Nilam Sonkar,BJP
+CD0348,,Uttar Pradesh,Lucknow,Shri Rajnath Singh,BJP
+CD0349,,Uttar Pradesh,Machhlishahr,Shri V P Saroj,BJP
+CD0350,,Uttar Pradesh,Maharajganj,"Shri Pankaj Chaudhary, MP",BJP
+CD0351,,Uttar Pradesh,Mainpuri,Shri Prem Singh Shakya,BJP
+CD0352,,Uttar Pradesh,Mathura,Smt. Hema Malini,BJP
+CD0353,,Uttar Pradesh,Meerut,Shri Rajendra Agarwal,BJP
+CD0354,,Uttar Pradesh,Misrikh,"Shri Ashok Rawat, Ex MP",BJP
+CD0355,,Uttar Pradesh,Mohanlalganj,Shri Kaushal Kishore,BJP
+CD0356,,Uttar Pradesh,Moradabad,Shri Kunwar Sarvesh Kumar,BJP
+CD0357,,Uttar Pradesh,Muzaffarnagar,Dr. Sanjeev Kumar Balyan,BJP
+CD0358,,Uttar Pradesh,Nagina,Dr. Yeshwant,BJP
+CD0359,,Uttar Pradesh,Phulpur,Smt Keshri Patel,BJP
+CD0360,,Uttar Pradesh,Pilibhit,"Shri Varun Gandhi, MP",BJP
+CD0361,,Uttar Pradesh,Pratapgarh,Shri. Sangam Lal Gupta,BJP
+CD0362,,Uttar Pradesh,Rae Bareli,Shri Dinesh Pratap Singh,BJP
+CD0363,,Uttar Pradesh,Rampur,Smt Jaya Prada,BJP
+CD0364,,Uttar Pradesh,Saharanpur,Shri Raghav Lakhanpal,BJP
+CD0365,,Uttar Pradesh,Salempur,"Shri Ravindra Kushwaha, MP",BJP
+CD0366,,Uttar Pradesh,Sambhal,Shri Parmeshwar Lal Saini,BJP
+CD0367,,Uttar Pradesh,Sant Kabir Nagar,Shri. Praveen Nishad,BJP
+CD0368,,Uttar Pradesh,Shahjahanpur,Shri Arun Sagar,BJP
+CD0369,,Uttar Pradesh,Shrawasti,"Shri Daddan Mishra, MP",BJP
+CD0370,,Uttar Pradesh,Sitapur,Shri Rajesh Verma,BJP
+CD0371,,Uttar Pradesh,Sultanpur,"Smt Maneka Gandhi, MP",BJP
+CD0372,,Uttar Pradesh,Unnao,Swami Sakshi Ji Maharaj,BJP
+CD0373,,Uttar Pradesh,Varanasi,Narendra Damodardas Modi,BJP
+CD0374,,Uttrakhand,Almora,Shri Ajay Tamta,BJP
+CD0375,,Uttrakhand,Garhwal,Shri Tirath Singh Rawat,BJP
+CD0376,,Uttrakhand,Hardwar,Dr. Ramesh Pokhriyal (Nishank),BJP
+CD0377,,Uttrakhand,Nainital-Udhamsingh Nagar,Shri Ajay Bhatt,BJP
+CD0378,,Uttrakhand,Tehri Garhwal,Smt. Mala Rajya Laxmi,BJP
+CD0379,,West Bengal,Alipurduars ,Shri John Barla,BJP
+CD0380,,West Bengal,Arambagh,Shri Tapan Roy,BJP
+CD0381,,West Bengal,Asansol,Shri Babul Supriyo,BJP
+CD0382,,West Bengal,Baharampur,Shri Krishna Juardar Arya,BJP
+CD0383,,West Bengal,Balurghat,Dr Sukanta Majumdar,BJP
+CD0384,,West Bengal,Bangaon ,Shri Shantanu Thakur,BJP
+CD0385,,West Bengal,Bankura,Dr Subhash Sarkar,BJP
+CD0386,,West Bengal,Barasat,Dr Mrinal Kanthi Debnath,BJP
+CD0387,,West Bengal,Bardhaman Purba,Shri Paresh Chandra Das,BJP
+CD0388,,West Bengal,Barrackpore,Shri Arjun Singh,BJP
+CD0389,,West Bengal,Basirhat,Shri Sayantan Basu,BJP
+CD0390,,West Bengal,Birbhum,Shri Dudh Kumar Mondal,BJP
+CD0391,,West Bengal,Bishnupur,Shri Soumitra Kha,BJP
+CD0392,,West Bengal,Bolpur,Shri Ram Prashad Das,BJP
+CD0393,,West Bengal,Burdwan - Durgapur,Shri S. S. Ahluwaliya,BJP
+CD0394,,West Bengal,Cooch Behar ,Shri Nisith Pramanik,BJP
+CD0395,,West Bengal,Darjeeling,Shri Raju Singh Bisht,BJP
+CD0396,,West Bengal,Diamond Harbour,Shri Nilanjan Roy,BJP
+CD0397,,West Bengal,Dum Dum,Shri Samik Bhattacharya,BJP
+CD0398,,West Bengal,Ghatal,Smt. Bharati Ghosh,BJP
+CD0399,,West Bengal,Hooghly,Smt. Locket chaterjee,BJP
+CD0400,,West Bengal,Howrah,Shri Rantidev Sen Gupta,BJP
+CD0401,,West Bengal,Jadavpur,Prof. Anupam Hazra,BJP
+CD0402,,West Bengal,Jalpaiguri,Dr Jayanta Ray,BJP
+CD0403,,West Bengal,Jangipur,Smt. Mafuja Khatun,BJP
+CD0404,,West Bengal,Jhargram,Dr Kunar Hembram,BJP
+CD0405,,West Bengal,Joynagar,Dr Ashok Kandari,BJP
+CD0406,,West Bengal,Kanthi,Dr Debashish Samant,BJP
+CD0407,,West Bengal,Kolkata Dakshin,Shri Chandra Kumar Bose,BJP
+CD0408,,West Bengal,Kolkata Uttar,Shri Rahul Sinha,BJP
+CD0409,,West Bengal,Krishnanagar,Shri Kalyan Chowbey,BJP
+CD0410,,West Bengal,Maldaha Dakshin,Smt. Sreerupa Mitra Choudhury,BJP
+CD0411,,West Bengal,Maldaha Uttar,Shri Khagen Murmu,BJP
+CD0412,,West Bengal,Mathurapur,Shri Shyamaprasad Halder,BJP
+CD0413,,West Bengal,Medinipur,Shri Dilip Ghosh,BJP
+CD0414,,West Bengal,Murshidabad,Shri Humayun Kabir,BJP
+CD0415,,West Bengal,Purulia,Shri Jyotirmoy Mahto,BJP
+CD0416,,West Bengal,Raiganj,Smt. Deboshree Chaudhary,BJP
+CD0417,,West Bengal,Ranaghat ,Dr Mukut Mani Adhikari,BJP
+CD0418,,West Bengal,Serampore,Shri Debajit Sarkar,BJP
+CD0419,,West Bengal,Tamluk,Shri Siddharth Naskar,BJP
+CD0420,,West Bengal,Uluberia,Shri Joy Banerjee,BJP
+CD0421,,Andaman and Nicobar Islands,Andaman and Nicobar Islands,Sanjay Meshack,AAP
+CD0422,,Bihar,Kishanganj,Alimuddin Ansari,AAP
+CD0423,,Delhi,Chandni Chowk,Pankaj Gupta,AAP
+CD0424,,Delhi,East Delhi,Atishi,AAP
+CD0425,,Delhi,New Delhi,Brijesh Goyal,AAP
+CD0426,,Delhi,Northeast Delhi,Dilip Pandey,AAP
+CD0427,,Delhi,Northwest Delhi,Guggan Singh,AAP
+CD0428,,Delhi,South Delhi,Raghav Chadha,AAP
+CD0429,,Delhi,West Delhi,Balbir Singh Jakhar,AAP
+CD0430,,Odisha,Sundargarh,Basil Ekka,AAP
+CD0431,,Punjab,Amritsar,Kuldeep Singh Dhaliwal,AAP
+CD0432,,Punjab,Anandpur Sahib,Narinder Singh Shergill,AAP
+CD0433,,Punjab,Faridkot,Sadhu Singh,AAP
+CD0434,,Punjab,Fatehgarh Sahib,Bajlinder Singh Chaunda,AAP
+CD0435,,Punjab,Gurdaspur,Peter Masih Cheeda,AAP
+CD0436,,Punjab,Hoshiarpur,Dr Ravjot Singh,AAP
+CD0437,,Punjab,Jalandhar,Jora Singh,AAP
+CD0438,,Punjab,Sangrur,Bhagwant Mann,AAP
+CD0439,,Andaman and Nicobar Islands,Andaman and Nicobar Islands,Kuldeep Rai Sharma,INC
+CD0440,,Andhra Pradesh,Amalapuram,Janga Gowtham,INC
+CD0441,,Andhra Pradesh,Anakapalli,Sreeram Murthy,INC
+CD0442,,Andhra Pradesh,Anantapur,Kuncham Rajeev Reddy,INC
+CD0443,,Andhra Pradesh,Araku,Ms Sruth V. Devi,INC
+CD0444,,Andhra Pradesh,Bapatla,Jesudasu Seelam,INC
+CD0445,,Andhra Pradesh,Chittoor,Dr. Cheemala Rangappa,INC
+CD0446,,Andhra Pradesh,Eluru,Jettl Gurunadha Rao,INC
+CD0447,,Andhra Pradesh,Guntur,Shaik Mastan Vali,INC
+CD0448,,Andhra Pradesh,Hindupur,KT Sreedhar,INC
+CD0449,,Andhra Pradesh,Kadapa,Gundlakunta Sreeramulu,INC
+CD0450,,Andhra Pradesh,Kakinada,MM Pallam Raju,INC
+CD0451,,Andhra Pradesh,Kurnool,Ahmed Ali Khan,INC
+CD0452,,Andhra Pradesh,Machilipatnam,Gollu Krishna,INC
+CD0453,,Andhra Pradesh,Nandyal,J. Lakshmi Narasimha Yadav,INC
+CD0454,,Andhra Pradesh,Narasaraopet,Pakkala Suribabu,INC
+CD0455,,Andhra Pradesh,Narsapuram,Kanumuri Bapiraju,INC
+CD0456,,Andhra Pradesh,Nellore,Chevuru Devakumar Reddy,INC
+CD0457,,Andhra Pradesh,Ongole,Dr. Sdjm Prasad,INC
+CD0458,,Andhra Pradesh,Rajahmundry,Nalluri Vijaya Srinivasa Rao,INC
+CD0459,,Andhra Pradesh,Rajampet,Mohd Shahjahan Basha,INC
+CD0460,,Andhra Pradesh,Srikakulam,Dola Jaganmohan Rao,INC
+CD0461,,Andhra Pradesh,Tirupati,Chinta Mohan,INC
+CD0462,,Andhra Pradesh,Vijayawada,Naraharasetti Narsimha Rao,INC
+CD0463,,Andhra Pradesh,Visakhapatnam,Ramana Kumari Pedada,INC
+CD0464,,Andhra Pradesh,Vizianagaram,Yedla AdlRaju,INC
+CD0465,,Arunachal Pradesh,Arunachal East,James Lowangcha Wanglet,INC
+CD0466,,Arunachal Pradesh,Arunachal West,Nabam Tuki,INC
+CD0467,,Assam,Autonomous District ,Biren Singh Engti,INC
+CD0468,,Assam,Barpeta,Abdul Khaleque,INC
+CD0469,,Assam,Dhubri,Abu Taher Bepari,INC
+CD0470,,Assam,Dibrugarh,Paban Singh Ghatowar,INC
+CD0471,,Assam,Gauhati,Smt. Bobbeeta Sharma,INC
+CD0472,,Assam,Jorhat,Sushanta Borgohain,INC
+CD0473,,Assam,Kaliabor,Gaurav Gogoi,INC
+CD0474,,Assam,Karimganj ,Swarup Das,INC
+CD0475,,Assam,Kokrajhar,Sabda Ram Rabha,INC
+CD0476,,Assam,Lakhimpur,Anil Borgohain,INC
+CD0477,,Assam,Mangaldoi,Bhubaneswar Kalita,INC
+CD0478,,Assam,Nowgong,Pradyut Bordoloi,INC
+CD0479,,Assam,Silchar,Sushmita Dev,INC
+CD0480,,Assam,Tezpur,M.G.V.K. Bhanu,INC
+CD0481,,Bihar,Katihar,Tariq Anwar,INC
+CD0482,,Bihar,Kishanganj,Mohammad Javed,INC
+CD0483,,Bihar,Munger,Smt. Neelam Devi,INC
+CD0484,,Bihar,Patna Sahib,Shatrughan Sinha,INC
+CD0485,,Bihar,Purnia,Uday Singh,INC
+CD0486,,Bihar,Samastipur ,Dr. Ashok Kumar,INC
+CD0487,,Bihar,Sasaram ,Smt. Meira Kumar,INC
+CD0488,,Bihar,Supaul,Smt Ranjeet Ranjan,INC
+CD0489,,Bihar,Valmiki Nagar,Shashwat Kedar,INC
+CD0490,,Chandigarh,Chandigarh,Pawan Kumar Bansal,INC
+CD0491,,Chattisgarh,Bastar ,Deepak Baij,INC
+CD0492,,Chattisgarh,Bilaspur,Atal Shrivastav,INC
+CD0493,,Chattisgarh,Durg,Smt. Pratima Chandrakar,INC
+CD0494,,Chattisgarh,Janjgir - Champa,Ravi Bhardwaj,INC
+CD0495,,Chattisgarh,Kanker ,Biresh Thakur,INC
+CD0496,,Chattisgarh,Korba,Smt. Jyotsna Mahant,INC
+CD0497,,Chattisgarh,Mahasamund,Dhanendra Sahu,INC
+CD0498,,Chattisgarh,Raigarh ,Laljeet Singh Rathia,INC
+CD0499,,Chattisgarh,Raipur,Pramod Dubey,INC
+CD0500,,Chattisgarh,Rajnandgaon,Bholaram Saiiu,INC
+CD0501,,Chattisgarh,Surguja,Khel Sai Singh,INC
+CD0502,,Dadra and Nagar Haveli,Dadar and Nagar Haveli ,Prabhu Ratnabhai Tokiya,INC
+CD0503,,Daman and Diu,Daman and Diu,Ketan Patel,INC
+CD0504,,Goa,North Goa,Girish Chodankar,INC
+CD0505,,Goa,South Goa,Francisco Sardinha,INC
+CD0506,,Gujarat,Ahmedabad East,Geetaben Patel,INC
+CD0507,,Gujarat,Ahmedabad West ,Raju Paramar,INC
+CD0508,,Gujarat,Amreli,Paresh Dhanani,INC
+CD0509,,Gujarat,Anand,Bharatsinh M. Solanki,INC
+CD0510,,Gujarat,Banaskantha,Parthibhai Bhatol,INC
+CD0511,,Gujarat,Bardoli ,Tushar Chaudhary,INC
+CD0512,,Gujarat,Bharuch,Sherkhan Abdul Shakur Pathan,INC
+CD0513,,Gujarat,Bhavnagar,Manhar Patel,INC
+CD0514,,Gujarat,Chhota Udaipur ,Ranjit Mohansinh Rathwa,INC
+CD0515,,Gujarat,Dahod ,Babubhai Kataria,INC
+CD0516,,Gujarat,Gandhinagar,Dr C.J. Chavda,INC
+CD0517,,Gujarat,Jamnagar,Murubhai Kandoriya,INC
+CD0518,,Gujarat,Junagadh,Punjabhai Vansh,INC
+CD0519,,Gujarat,Kachahh,Naresh N. Maheshwari,INC
+CD0520,,Gujarat,Kheda,Bimal Shah,INC
+CD0521,,Gujarat,Mahesana,A J Patel,INC
+CD0522,,Gujarat,Navsari,Dharmesh Bhimbhai Patel,INC
+CD0523,,Gujarat,Panchmahal,V K Khant,INC
+CD0524,,Gujarat,Patan,Jagdish Thakor,INC
+CD0525,,Gujarat,Porbandar,Lalit Vasoya,INC
+CD0526,,Gujarat,Rajkot,Lalit Kagathapa,INC
+CD0527,,Gujarat,Sabarkantha,Rajendra Thakor,INC
+CD0528,,Gujarat,Surat,Ashok Adhevada,INC
+CD0529,,Gujarat,Surendranagar,Somabhai Patel,INC
+CD0530,,Gujarat,Vadodara,Prashant Patel,INC
+CD0531,,Gujarat,Valsad ,Jitu Chaudhary,INC
+CD0532,,Haryana,Ambala,Kum. Selja,INC
+CD0533,,Haryana,Bhiwani-Mahendragarh,Ms. Shruti Chaudhary,INC
+CD0534,,Haryana,Faridabad,Lalit Nagar,INC
+CD0535,,Haryana,Gurgaon,Capt. Ajay Singh Yadav,INC
+CD0536,,Haryana,Rohtak,Deepender Singh Hooda,INC
+CD0537,,Haryana,Sirsa,Ashok Tanwar,INC
+CD0538,,Himachal Pradesh,Hamirpur,Ram Lal Thakur,INC
+CD0539,,Himachal Pradesh,Kangra,Pawan Kajal,INC
+CD0540,,Himachal Pradesh,Mandi,Ashrey Sharma,INC
+CD0541,,Himachal Pradesh,Shimla,Dr. Col. Dhani Ram Shandil,INC
+CD0542,,Jammu and Kashmir,Anantnag,Ghulam Ahmad Mir,INC
+CD0543,,Jammu and Kashmir,Baramulla,Haji Farooq Ahmad Mir,INC
+CD0544,,Jammu and Kashmir,Jammu,Raman Bhalla,INC
+CD0545,,Jammu and Kashmir,Ladakh,Rigzin Spalbar,INC
+CD0546,,Jammu and Kashmir,Udhampur,Vikramaditya Singh,INC
+CD0547,,Jharkhand,Chatra,Manoj Kumar Yadav,INC
+CD0548,,Jharkhand,Dhanbad,Kirti Azad,INC
+CD0549,,Jharkhand,Hazaribagh,Shri Gopal Sahu,INC
+CD0550,,Jharkhand,Khunti,Kalicharan Munda,INC
+CD0551,,Jharkhand,Lohardaga,Sukhdeo Bhagat,INC
+CD0552,,Jharkhand,Ranchi,Subodh Kant Sahay,INC
+CD0553,,Jharkhand,Singhbhum,Smt. Geeta Kora,INC
+CD0554,,Karnataka,Bagalkot,Veena Kashappanavar,INC
+CD0555,,Karnataka,Bangalore Central,Rizwan Arshad,INC
+CD0556,,Karnataka,Bangalore North,Krishna Byregowda,INC
+CD0557,,Karnataka,Bangalore Rural,D.K Suresh,INC
+CD0558,,Karnataka,Bangalore South,B.K. Hariprasad,INC
+CD0559,,Karnataka,Belgaum,Virupakshi S. Sadhunnavar,INC
+CD0560,,Karnataka,Bellary,U.S. Ugrappa,INC
+CD0561,,Karnataka,Bidar,Eshwar Khandre B.,INC
+CD0562,,Karnataka,Chamrajanagar,R.Dhruva Narayana,INC
+CD0563,,Karnataka,Chikkballapur,Dr. M. Veerappa Moily,INC
+CD0564,,Karnataka,Chikkodi,Prakash Hukkeri,INC
+CD0565,,Karnataka,Chitradurga ,B.N. Chandrappa,INC
+CD0566,,Karnataka,Dakshina Kannada,Mithun M Rai,INC
+CD0567,,Karnataka,Davanagere,Shamanur Shivashankarappa,INC
+CD0568,,Karnataka,Dharwad,Vinay Kulkarni,INC
+CD0569,,Karnataka,Gulbarga ,Malliakarjun Kharge,INC
+CD0570,,Karnataka,Haveri,D.R. Patil,INC
+CD0571,,Karnataka,Kolar,K.H. Muniyappa,INC
+CD0572,,Karnataka,Koppal,Rajashekhar Hitnal,INC
+CD0573,,Karnataka,Mysore,C. H. Vijayshankar,INC
+CD0574,,Karnataka,Raichur,B.V. Nayak,INC
+CD0575,,Kerala,Alappuzha,Shanimol Usman (INC),INC
+CD0576,,Kerala,Alathur,Ramya Haridas (INC),INC
+CD0577,,Kerala,Attingal,Adoor Prakash (INC),INC
+CD0578,,Kerala,Chalakudy,Benny Behanan (INC),INC
+CD0579,,Kerala,Ernakulam,Hibi Eden (INC),INC
+CD0580,,Kerala,Idukki,Dean Kuriakose (INC),INC
+CD0581,,Kerala,Kannur,K Sudhakaran (INC),INC
+CD0582,,Kerala,Kasargod,Rajmohan Unnithan (INC),INC
+CD0583,,Kerala,Kozhikode,MK Raghavan (INC),INC
+CD0584,,Kerala,Mavelikara,Kodikunnil Suresh (INC),INC
+CD0585,,Kerala,Palakkad,VK Sreekandan (INC),INC
+CD0586,,Kerala,Pathanamthitta,Anto Antony (INC),INC
+CD0587,,Kerala,Thiruvananthapuram,Shashi Tharoor (INC),INC
+CD0588,,Kerala,Thrissur,TN Prathapan (INC),INC
+CD0589,,Kerala,Vadakara,K Muraleedharan (INC),INC
+CD0590,,Kerala,Wayanad,Rahul Gandhi (INC),INC
+CD0591,,Lakshadweep,Lakshadweep ,M. Handullah Sayeed,INC
+CD0592,,Madhya Pradesh,Balaghat,Madhu Bhagat,INC
+CD0593,,Madhya Pradesh,Betul,Ramu Tekam,INC
+CD0594,,Madhya Pradesh,Bhind,Dewasish Jararia,INC
+CD0595,,Madhya Pradesh,Bhopal,Digvijaya Singh,INC
+CD0596,,Madhya Pradesh,Chhindwara,Nakul Nath,INC
+CD0597,,Madhya Pradesh,Damoh,Pratap Singh Lodhi,INC
+CD0598,,Madhya Pradesh,Dewas,Prahlad Tipaniya,INC
+CD0599,,Madhya Pradesh,Dhar,Dinesh Girwal,INC
+CD0600,,Madhya Pradesh,Guna,Jyotiraditya Scindia,INC
+CD0601,,Madhya Pradesh,Gwalior,Ashok Singh,INC
+CD0602,,Madhya Pradesh,Hoshanghabad,Shailendra Diwan ,INC
+CD0603,,Madhya Pradesh,Indore,Pankaj Sanghvi,INC
+CD0604,,Madhya Pradesh,Jabalpur,Vivek Tankha,INC
+CD0605,,Madhya Pradesh,Khajuraho,Smt Kavita Singh W/O Natiraja,INC
+CD0606,,Madhya Pradesh,Khandwa,Arun Yadav,INC
+CD0607,,Madhya Pradesh,Khargone,Dr. Govind Muzaalda,INC
+CD0608,,Madhya Pradesh,Mandla,Kamal Maravi,INC
+CD0609,,Madhya Pradesh,Mandsour,M.S Meenakshi Natarajan,INC
+CD0610,,Madhya Pradesh,Morena,Shri Ram Niwas Rawat,INC
+CD0611,,Madhya Pradesh,Rajgarh,Smt. Mona Sustani,INC
+CD0612,,Madhya Pradesh,Ratlam,Kanti Lal Bhuria,INC
+CD0613,,Madhya Pradesh,Rewa,Siddharth Tiwari,INC
+CD0614,,Madhya Pradesh,Sagar,Prabhusingh Thakur,INC
+CD0615,,Madhya Pradesh,Satna,Raja Ram Tripathi,INC
+CD0616,,Madhya Pradesh,Shahdol,Smt Pramila Singh,INC
+CD0617,,Madhya Pradesh,Sidhi,Ajay Singh Rahul,INC
+CD0618,,Madhya Pradesh,Tikamgarh,Smt Kiran Ahirwar,INC
+CD0619,,Madhya Pradesh,Ujjain,Babulal Malviya,INC
+CD0620,,Madhya Pradesh,Vidisha,Shailendra Patel,INC
+CD0621,,Maharashtra,Akola,Hidayatullah Barakatullah Patel,INC
+CD0622,,Maharashtra,Aurangabad,Subhash Zambad,INC
+CD0623,,Maharashtra,Bhiwandi,Suresh Kashinath Taware,INC
+CD0624,,Maharashtra,Chandrapur,Balubhau alias Suresh Narayan Dhanorkar,INC
+CD0625,,Maharashtra,Dhule,Kunal Rohidas Patil,INC
+CD0626,,Maharashtra,Gadchiroli-Chimur ,Dr. Namdev Dalluji Usendi,INC
+CD0627,,Maharashtra,Hingoli,Wankhede Subhashrao Bapurao,INC
+CD0628,,Maharashtra,Jalna,Vilas Keshavrao Autade,INC
+CD0629,,Maharashtra,Latur ,Machhlindra Kamant,INC
+CD0630,,Maharashtra,Mumbai North,Smt. Urmila Matondkar,INC
+CD0631,,Maharashtra,Mumbai North West,Sanjay Nirupam,INC
+CD0632,,Maharashtra,Mumbai South-Central,Eknath Gaikwad,INC
+CD0633,,Maharashtra,Mumbai-North-Central,Smt. Priya Dutt,INC
+CD0634,,Maharashtra,Mumbai-South,Milind Murli Deora,INC
+CD0635,,Maharashtra,Nagpur,Nana Patole,INC
+CD0636,,Maharashtra,Nanded,Ashok Shankarrao Chavan,INC
+CD0637,,Maharashtra,Nandurbar ,K.C. Padavi,INC
+CD0638,,Maharashtra,Pune,Mohan Joshi,INC
+CD0639,,Maharashtra,Ramtek,Kishore Uttamrao Gajbhiye,INC
+CD0640,,Maharashtra,Ratnagiri-Sindhudurg,Navinchandra Bandivadekar,INC
+CD0641,,Maharashtra,Raver,Dr Ulhas Patil,INC
+CD0642,,Maharashtra,Shirdi,Bhausaheb Kamble,INC
+CD0643,,Maharashtra,Solapur ,Sushil Kumar S. Sinde,INC
+CD0644,,Maharashtra,Wardha,Adv. Charulata Khajashigh Tokas,INC
+CD0645,,Maharashtra,Yavatmal-Washim,Manikrao G. Thakare,INC
+CD0646,,Manipur,Inner Manipur,Oinam Nabakishore Singh,INC
+CD0647,,Manipur,Outer Manipur,K. James,INC
+CD0648,,Meghalaya,Shillong ,Vincent H Pala,INC
+CD0649,,Meghalaya,Tura ,Dr Mukul M Sangma,INC
+CD0650,,Nagaland,Nagaland,K.L.Chishi,INC
+CD0651,,Odisha,Aska,Not Declared,INC
+CD0652,,Odisha,Balasore,Navajyoti Patnaik,INC
+CD0653,,Odisha,Balasore,Navajyoti Patnaik,INC
+CD0654,,Odisha,Bargarh,Pradeep Kumar Devta,INC
+CD0655,,Odisha,Berhampur,V.Chandrasekhar Naidu,INC
+CD0656,,Odisha,Bhadrak,Ms. Madhumita Sethi,INC
+CD0657,,Odisha,Bhubaneswar,Not Declared,INC
+CD0658,,Odisha,Bolangir,Samarendra Mishta,INC
+CD0659,,Odisha,Cuttack,Panchanan Kanungo,INC
+CD0660,,Odisha,Dhenkanal,Brig K. P. Singhoeo,INC
+CD0661,,Odisha,Jagatsinghpur,Ms. Pratima Mallick,INC
+CD0662,,Odisha,Jajpur ,Manas Jena,INC
+CD0663,,Odisha,Kalahandi,Bhakta Charan Das,INC
+CD0664,,Odisha,Kandhamal,Manoj Kumar Acharya,INC
+CD0665,,Odisha,Kendrapara,Dharanidhar Nayak,INC
+CD0666,,Odisha,Keonjhar,Fakir Mohan Naik,INC
+CD0667,,Odisha,Koraput ,Saptagiri Sankar Ulaka,INC
+CD0668,,Odisha,Mayurbhanj,Not Declared,INC
+CD0669,,Odisha,Nabarangpur,Pradeep Kumar Majhi,INC
+CD0670,,Odisha,Puri,Satya Prakash Nayak,INC
+CD0671,,Odisha,Sundargarh,Geore Tirkey,INC
+CD0672,,Pudechery,Puducherry,V. Vaithilingam,INC
+CD0673,,Punjab,Amritsar,Gurjit Singh Aujla,INC
+CD0674,,Punjab,Anandpur Sahib,Manish Tewari,INC
+CD0675,,Punjab,Faridkot,Mohd. Sadique,INC
+CD0676,,Punjab,Fatehgarh Sahib,Dr. Amar Singh,INC
+CD0677,,Punjab,Gurdaspur,Sunil Jakhar,INC
+CD0678,,Punjab,Hoshiarpur ,Rajkumar Chabbewal,INC
+CD0679,,Punjab,Jalandhar ,Santokh Singh Shaudhary,INC
+CD0680,,Punjab,Khadoor Sahib,Jasbir Singh Gill (Dimpa),INC
+CD0681,,Punjab,Ludhiana,Ravneet Singh Bittu,INC
+CD0682,,Punjab,Patiala,Preneet Kaur,INC
+CD0683,,Punjab,Sangrur,Kewal Singh Dhillon,INC
+CD0684,,Rajasthan,Ajmer,Rijju Jhunjhunuwala,INC
+CD0685,,Rajasthan,Alwar,Jitendra Singh,INC
+CD0686,,Rajasthan,Banswara,Tarachand Bhagora,INC
+CD0687,,Rajasthan,Barmer,Manvendra Singh,INC
+CD0688,,Rajasthan,Bharatpur,Abhijit Kumar Jatav,INC
+CD0689,,Rajasthan,Bhilwara,Rampal Sharma,INC
+CD0690,,Rajasthan,Chittorgarh,Gopal Singh Idwa,INC
+CD0691,,Rajasthan,Churu,Rafioue Mandelia,INC
+CD0692,,Rajasthan,Dausa,Smt. Savita Meena,INC
+CD0693,,Rajasthan,Ganganagar ,Bharatram Meghwal,INC
+CD0694,,Rajasthan,Jaipur,Smt. Jyoti Khandelwal,INC
+CD0695,,Rajasthan,Jaipur Rural,Krishna Punia,INC
+CD0696,,Rajasthan,Jalore,Ratan Dewasi,INC
+CD0697,,Rajasthan,Jhalawar-Baran,Pramod Sharma,INC
+CD0698,,Rajasthan,Jhunjhunu,Shrawan Kumar,INC
+CD0699,,Rajasthan,Jodhpur,Vaibhav Gehlot,INC
+CD0700,,Rajasthan,Karauli - Dholpur,Sanjay Kumar Jatav,INC
+CD0701,,Rajasthan,Kota,Ramnarayan Meena,INC
+CD0702,,Rajasthan,Nagaur,Dr Jyoti Mirdha,INC
+CD0703,,Rajasthan,Pali,Badri Ram Jakhar,INC
+CD0704,,Rajasthan,Rajsamand,Devkinandan Gurjar,INC
+CD0705,,Rajasthan,Rikanfr,Madangopal Meghwal,INC
+CD0706,,Rajasthan,Sikar,Subhash Maharia,INC
+CD0707,,Rajasthan,Tonk-Sawai Madhopur,Namo Narain Meena,INC
+CD0708,,Rajasthan,Udaipur,Raghuveer Singh Meena,INC
+CD0709,,Sikkim,Sikkim,Bharat Basnett,INC
+CD0710,,Tamilnadu,Arani,Dr. M K. Vishnu Prasad,INC
+CD0711,,Tamilnadu,Kanniyakumari,H. Vasanthakumar,INC
+CD0712,,Tamilnadu,Karur,Selvi Jothimani,INC
+CD0713,,Tamilnadu,Krishnagiri,Dr. A Chellakumar,INC
+CD0714,,Tamilnadu,Theni,Evks Elangovan,INC
+CD0715,,Tamilnadu,Tiruchirappalli,Su. Thirunnavukkarasar,INC
+CD0716,,Tamilnadu,Tiruvallur,Dr. K Jayakumar,INC
+CD0717,,Tamilnadu,Virudhunagar,Manickam Tagore,INC
+CD0718,,Tamilnadu,Sivaganga,Karti P Chidambaram,INC
+CD0719,,Telangana,Adilabad ,Ramesh Rathod,INC
+CD0720,,Telangana,Bhongir,Komatireddy Venkat Reddy,INC
+CD0721,,Telangana,Chelvella,Konda Vishweshwar Reddy,INC
+CD0722,,Telangana,Hyderabad,Firoz Khan,INC
+CD0723,,Telangana,Karimnagar,Ponnam Prabhakar,INC
+CD0724,,Telangana,Khammam,Smt. Renuka Choudhary,INC
+CD0725,,Telangana,Mahabubabad ,Porika Balram Naik,INC
+CD0726,,Telangana,Mahabubnagar,Dr. Ch. Vamshichand Reddy,INC
+CD0727,,Telangana,Malkajgiri,A Revanth Reddy,INC
+CD0728,,Telangana,Medak,Gali Anil Kumar,INC
+CD0729,,Telangana,Nagarkurnool,Dr. Mallu Ravi,INC
+CD0730,,Telangana,Nalgonda,N. Uttam Kumar Reddy,INC
+CD0731,,Telangana,Nizamabad,Madhu Yashki Guud,INC
+CD0732,,Telangana,Peddapalli,A Chandra Sekhar,INC
+CD0733,,Telangana,Secunderabad,M. Anjan Kumar Yadav,INC
+CD0734,,Telangana,Warangal,Dommati Sambaiah,INC
+CD0735,,Telangana,Zahirabad,K Madan Mohan Rao,INC
+CD0736,,Tripura,Tripura East,Maharaj Kumari Pragya Debburman,INC
+CD0737,,Tripura,Tripura West,Subal Bhowmick,INC
+CD0738,,Uttar Pradesh,Agra,Mrs Preeta Harit,INC
+CD0739,,Uttar Pradesh,Akbarpur,Rajaram Pal,INC
+CD0740,,Uttar Pradesh,Aligarh,Ch. Brijender Singh,INC
+CD0741,,Uttar Pradesh,Ambedkar Nagar,Ummed Singh Nishad,INC
+CD0742,,Uttar Pradesh,Amethi,Rahul Gandhi,INC
+CD0743,,Uttar Pradesh,Amroha,Sachin Choudhary,INC
+CD0744,,Uttar Pradesh,Aonla,Kumar Sarvaraj Singha,INC
+CD0745,,Uttar Pradesh,Badaun,Saleem Iqbal Shervani,INC
+CD0746,,Uttar Pradesh,Bahraich,Smt. Savitri Phule,INC
+CD0747,,Uttar Pradesh,Banda,Bal Kunwar Patel,INC
+CD0748,,Uttar Pradesh,Bansgaon,Kush Saurabh,INC
+CD0749,,Uttar Pradesh,Barabanki,Tanuj Punia,INC
+CD0750,,Uttar Pradesh,Bareilly,Praveen Aron,INC
+CD0751,,Uttar Pradesh,Basti,Raj Kishore Singh,INC
+CD0752,,Uttar Pradesh,Bhadohi,Rama Kant Yadav,INC
+CD0753,,Uttar Pradesh,Bijnor,Naseemuddin Siddioui (In place of Indira Bhatti),INC
+CD0754,,Uttar Pradesh,Bulandshahr,Banshi Singh,INC
+CD0755,,Uttar Pradesh,Chandauli,Smt. Shiv Kanya Kushwah,INC
+CD0756,,Uttar Pradesh,Deoria,Niaz Ahmed,INC
+CD0757,,Uttar Pradesh,Dhaurahra,Jitin Prasad,INC
+CD0758,,Uttar Pradesh,Etawah,Ashok Dohare,INC
+CD0759,,Uttar Pradesh,Faizabad,Nirmal Khatri,INC
+CD0760,,Uttar Pradesh,Farrukhabad,Salman Khursheed,INC
+CD0761,,Uttar Pradesh,Fatehpur,Rakesh Sachan,INC
+CD0762,,Uttar Pradesh,Fatehpur Sikri,Raj Babbar,INC
+CD0763,,Uttar Pradesh,Gautam Buddha Nagar,Dr. Arvind Kumar Singh,INC
+CD0764,,Uttar Pradesh,Ghaziabad,Smt. Dolly Sharma,INC
+CD0765,,Uttar Pradesh,Ghazipur,Ajit Pratap Kushwah,INC
+CD0766,,Uttar Pradesh,Ghosi,Bal Krishna Chauhan,INC
+CD0767,,Uttar Pradesh,Gonda,Smt. Krishna Patel,INC
+CD0768,,Uttar Pradesh,Hamirpur,Pritam Lodhi,INC
+CD0769,,Uttar Pradesh,Hardoi,Virendra Kumar Verma,INC
+CD0770,,Uttar Pradesh,Hathras,Trilokiram Diwakar,INC
+CD0771,,Uttar Pradesh,Jalaun,Brij Lal Khabri,INC
+CD0772,,Uttar Pradesh,Jaunpur,Dewrata Mishra,INC
+CD0773,,Uttar Pradesh,Jhansi,Aov. Shiv Saran Kushwah,INC
+CD0774,,Uttar Pradesh,Kairana,Harendra Singh Malik,INC
+CD0775,,Uttar Pradesh,Kaiserganj,Vinay Kumar Pandey,INC
+CD0776,,Uttar Pradesh,Kanpur,Sri Prakash Jaiswal,INC
+CD0777,,Uttar Pradesh,Kaushambi,Girish Chand Pasi,INC
+CD0778,,Uttar Pradesh,Kheri,Zafar Ali Naqvi,INC
+CD0779,,Uttar Pradesh,Kushi Nagar,R.P.N. Singh,INC
+CD0780,,Uttar Pradesh,Lalganj,Pankaj Mohan Sonkar,INC
+CD0781,,Uttar Pradesh,Lucknow,Acharya Pramod Krishnam,INC
+CD0782,,Uttar Pradesh,Maharajganj,Supriya Shrinate (In place of Tanushree Tripathi),INC
+CD0783,,Uttar Pradesh,Mathura,Mahesh Pathak,INC
+CD0784,,Uttar Pradesh,Meerut,Harendra Agarwal (In place of Dr. O.P. Sharma),INC
+CD0785,,Uttar Pradesh,Mirzapur,Lalitesh Pati Tripathi,INC
+CD0786,,Uttar Pradesh,Misrikh,Ms. Manjari Rahi,INC
+CD0787,,Uttar Pradesh,Mohanlalganj,R K Chaudhary (In place of Ramasharkar Bhargava),INC
+CD0788,,Uttar Pradesh,Moradabad,Imran Pratapgarhiya (In place of Raj Babbar),INC
+CD0789,,Uttar Pradesh,Nagina,Smt. Omwati Devi Jatav,INC
+CD0790,,Uttar Pradesh,Phulpur,Pankaj Niranjan,INC
+CD0791,,Uttar Pradesh,Pratapgarh,Smt. Ratna Singh,INC
+CD0792,,Uttar Pradesh,Rae Bareli,Smt. Sonia Gandhi,INC
+CD0793,,Uttar Pradesh,Rampur,Sanjay Kapoor,INC
+CD0794,,Uttar Pradesh,Robertsganj,Bhagwati Prasad Choudhary,INC
+CD0795,,Uttar Pradesh,Saharanpur,Imran Masood,INC
+CD0796,,Uttar Pradesh,Salempur,Rajesh Mishra,INC
+CD0797,,Uttrakhand,Almora ,Pradeep Tamta,INC
+CD0798,,Uttrakhand,Garhwal,Manish Khanduri,INC
+CD0799,,Uttrakhand,Hardwar,Ambrish Kumar,INC
+CD0800,,Uttrakhand,Nainital-Udhamsingh Nagar,Harish Rawat,INC
+CD0801,,Uttrakhand,Tehri Garhwal,Pritam Singh,INC
+CD0802,,West Bengal,Alipurduars,Mohan Lal Basumata,INC
+CD0803,,West Bengal,Arambagh,Smt Jyoti Das,INC
+CD0804,,West Bengal,Asansol,Biswarup Mondal,INC
+CD0805,,West Bengal,Baharampur,Adhir Ranjan Chowdhury,INC
+CD0806,,West Bengal,Balurghat,Sadik Sarkar,INC
+CD0807,,West Bengal,Bangaon,Sourav Prasad,INC
+CD0808,,West Bengal,Barasat,Smt Subrota (Rashu) Dutta,INC
+CD0809,,West Bengal,Bardhaman Durgapur,Ranjit Mukherjee,INC
+CD0810,,West Bengal,Bardhaman Purba,Siddharth Majumder,INC
+CD0811,,West Bengal,Barrackpore,Md. Alam,INC
+CD0812,,West Bengal,Basirhat,Quazi Abdur Rahim,INC
+CD0813,,West Bengal,Birbhum,Imam Hossain,INC
+CD0814,,West Bengal,Bishnupur,Narayan Chandra Khan,INC
+CD0815,,West Bengal,Bolpur,Abhjit Saha,INC
+CD0816,,West Bengal,Cooch Behar,MS. Priya Roy Chowdhury,INC
+CD0817,,West Bengal,Darjeeling,Shankar Malakar,INC
+CD0818,,West Bengal,Diamond Harbour,Soumya Aich Roy,INC
+CD0819,,West Bengal,Dum Dum,Saurav Baha,INC
+CD0820,,West Bengal,Hooghly,Pratul Saha,INC
+CD0821,,West Bengal,Howrah,Smt. Suvra Ghosh,INC
+CD0822,,West Bengal,Jalpaiguri,Mani Kumar Darnal,INC
+CD0823,,West Bengal,Jangipur,Abhijit Mukherjee,INC
+CD0824,,West Bengal,Jhargram,Jagyeswar Hemb Ram,INC
+CD0825,,West Bengal,Joynagar,Tapan Mondal,INC
+CD0826,,West Bengal,Kanthi,Dipak Kumar Das,INC
+CD0827,,West Bengal,Kolkata Dakshin,Smt Mita Chakraborty,INC
+CD0828,,West Bengal,Krishnanagar,Intaj Ali Shah,INC
+CD0829,,West Bengal,Maldaha Dakshin,Abu Hasem Khan Chowdhury,INC
+CD0830,,West Bengal,Maldaha Uttar,Isha Khan Chowdhury,INC
+CD0831,,West Bengal,Mathurapur,Krittibas Sardar,INC
+CD0832,,West Bengal,Medinipur,Sambhunath Chatterjee,INC
+CD0833,,West Bengal,Murshidabad,Abu Hema,INC
+CD0834,,West Bengal,Purulia,Nepal Mahato,INC
+CD0835,,West Bengal,Raiganj,Smt. Deepa Dasmunshi,INC
+CD0836,,West Bengal,Ranaghat,Smt Minati Biswas,INC
+CD0837,,West Bengal,Serampore,Debabrata Biswas,INC
+CD0838,,West Bengal,Tamluk,Dr Lakshman Chandra Seth,INC
+CD0839,,West Bengal,Uluberia,Smt Shoma Ranisree Roy,INC
+CD0840,,Uttar Pradesh,Sambhal,Maj J P Singh,INC
+CD0841,,Uttar Pradesh,Sant Kabir Nagar,Parvez Khan,INC
+CD0842,,Uttar Pradesh,Shahjahanpur,Brahm Swaroop Sagar,INC
+CD0843,,Uttar Pradesh,Shrawasti,Shri Dhirender Pratap Singh,INC
+CD0844,,Uttar Pradesh,Sitapur,Smt. Kaisar Jahan,INC
+CD0845,,Uttar Pradesh,Sultanpur,Dr. Sanjay Singh,INC
+CD0846,,Uttar Pradesh,Unnao,Smt. Annu Tandon,INC
+CD0847,,West Bengal,Ghatala,Khandakar Mohammad Saifullah,INC
+CD0848,,West Bengal,Jhargram,Jagyeswar Hembram,INC
